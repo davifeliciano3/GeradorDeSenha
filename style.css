@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+    color: white;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+.senha-gerada {
+    font-size: 1.75rem;
+    margin: 1rem 0;
+}
+p {
+    font-size: 1.75rem;
+    margin: 1rem 0;
+}
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
